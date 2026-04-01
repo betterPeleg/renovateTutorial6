@@ -8,7 +8,7 @@
   "author": "Philip",
   "license": "Apache-2.0",
   "dependencies": {
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "commander": "2.20.3"
   }
 }
